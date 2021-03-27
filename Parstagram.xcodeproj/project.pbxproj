@@ -21,6 +21,7 @@
 		FDE10FD4260097B100DC76E1 /* FeedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDE10FD3260097B100DC76E1 /* FeedViewController.swift */; };
 		FDE10FD92601DF8800DC76E1 /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDE10FD82601DF8800DC76E1 /* CameraViewController.swift */; };
 		FDE10FE92601EB1600DC76E1 /* PostCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDE10FE82601EB1600DC76E1 /* PostCell.swift */; };
+		FDE10FF1260B1B1100DC76E1 /* CommentCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDE10FF0260B1B1100DC76E1 /* CommentCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -67,6 +68,7 @@
 		FDE10FD3260097B100DC76E1 /* FeedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedViewController.swift; sourceTree = "<group>"; };
 		FDE10FD82601DF8800DC76E1 /* CameraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraViewController.swift; sourceTree = "<group>"; };
 		FDE10FE82601EB1600DC76E1 /* PostCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostCell.swift; sourceTree = "<group>"; };
+		FDE10FF0260B1B1100DC76E1 /* CommentCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -148,6 +150,7 @@
 				FDE10F8F260094CD00DC76E1 /* AppDelegate.swift */,
 				FDE10F91260094CD00DC76E1 /* SceneDelegate.swift */,
 				FDE10F95260094CD00DC76E1 /* Main.storyboard */,
+				FDE10FF0260B1B1100DC76E1 /* CommentCell.swift */,
 				FDE10FE82601EB1600DC76E1 /* PostCell.swift */,
 				FDE10FD82601DF8800DC76E1 /* CameraViewController.swift */,
 				FDE10FCE2600979500DC76E1 /* LoginViewController.swift */,
@@ -421,6 +424,7 @@
 				FDE10FD4260097B100DC76E1 /* FeedViewController.swift in Sources */,
 				FDE10F92260094CD00DC76E1 /* SceneDelegate.swift in Sources */,
 				FDE10FE92601EB1600DC76E1 /* PostCell.swift in Sources */,
+				FDE10FF1260B1B1100DC76E1 /* CommentCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
